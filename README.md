@@ -10,3 +10,5 @@
 - Set the parameters on `elasticsearch.yml` as the one on this project # i.e: xpack parameters
 - `bin/elasticsearch-setup-passwords auto`
 - log into elasticsearch and kibana using the **`elastic`** super user
+
+[Source](http://codingfundas.com/setting-up-elasticsearch-6-8-with-kibana-and-x-pack-security-enabled/index.html)
